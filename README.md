@@ -22,7 +22,7 @@ Welcome to Flua, the open source dynamic scripting language that compiles into L
   
 ## Classes
 
-Flue adds classes that compile to lua metatables, however with FLua its much easier to make encapsulation compliant tables.
+Flua adds classes that compile to lua metatables, however with FLua its much easier to make encapsulation compliant tables.
 
 With classes you can control what can be accessed as well as use some metatable magic.
 
