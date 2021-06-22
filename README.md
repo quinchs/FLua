@@ -95,10 +95,10 @@ local inst = new MyClass() -- prints hello.
 
 With FLua you can specify properties or functions in classes to have access keywords. Currently there is `public` and `private`. By default. all properties without an access keyword are made public.
 
-**Private**
+### Private
 Only the class or an instance of the class can access these functions or properties. `private` behaives exactly like C#'s `private` keyword. The `private` keyword can be applied on funtions inside a class, fields inside a class, and on get and set functions.
 
-**Public**
+### Public
 Anyone can access the function or property with the `public` keyword. The `public` keyword can be applied on functions inside a class, fields inside a class, and get and set functions.
 
 **Example**
