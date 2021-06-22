@@ -133,10 +133,10 @@ inst.propB = 5 -- invalid.
 
 The `get` and `set` keywords allow you to control encapsulation inside your classes.
 
-**Get**
+### Get
 The `get` keyword is used in properties to get the value of that property. they can be a function or a value. It is expected that the get function returns a value, but its not required.
 
-**Set**
+### Set
 The `set` function is used to set the properties value. The set function should take in a `value` parameter which is what the executer of the function wants to set the field to.
 
 **Example**
